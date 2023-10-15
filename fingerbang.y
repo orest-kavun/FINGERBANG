@@ -38,4 +38,4 @@ void yyerror(char const *string) {
     fprintf(stderr, "%s\n", string);
 }
 
-#include "cry.c"
+#include "fingerbang.c"
